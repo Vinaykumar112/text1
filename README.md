@@ -1,2 +1,2 @@
 # text1
-test repo
+test repo for github command
